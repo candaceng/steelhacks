@@ -226,7 +226,7 @@ class Profile extends StatelessWidget {
                               children: <Widget>[
                                 Icon(Icons.phone),
                                 SizedBox(width: 10),
-                                Text('1-866-5312600'),
+                                Text('1-866-531-2600'),
                               ],
                             ),
                           ),
